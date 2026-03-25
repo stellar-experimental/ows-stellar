@@ -18,6 +18,7 @@ Companion docs:
 - `docs/specs/ows-stellar-smart-wallet-plan.md`
 - `docs/specs/ows-stellar-implementation-surface-audit.md`
 - `docs/specs/ows-stellar-pr1-checklist.md`
+- `docs/specs/ows-stellar-first-class-parity-plan.md`
 
 Primary OWS sources:
 
