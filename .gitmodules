@@ -1,3 +1,4 @@
 [submodule "ows-core"]
 	path = ows-core
 	url = https://github.com/stellar-experimental/ows-core.git
+	branch = feat/stellar-smart-wallet

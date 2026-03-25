@@ -41,13 +41,13 @@ OpenZeppelin:
 
 Local implementation references:
 
-- [chain.rs](/Users/kalepail/Desktop/walleterm-ows/ows-core/ows/crates/ows-core/src/chain.rs)
-- [wallet_file.rs](/Users/kalepail/Desktop/walleterm-ows/ows-core/ows/crates/ows-core/src/wallet_file.rs)
-- [traits.rs](/Users/kalepail/Desktop/walleterm-ows/ows-core/ows/crates/ows-signer/src/traits.rs)
-- [mod.rs](/Users/kalepail/Desktop/walleterm-ows/ows-core/ows/crates/ows-signer/src/chains/mod.rs)
-- [ops.rs](/Users/kalepail/Desktop/walleterm-ows/ows-core/ows/crates/ows-lib/src/ops.rs)
-- [types.rs](/Users/kalepail/Desktop/walleterm-ows/ows-core/ows/crates/ows-lib/src/types.rs)
-- [stellar.rs](/Users/kalepail/Desktop/walleterm-ows/ows-core/ows/crates/ows-signer/src/chains/stellar.rs)
+- [chain.rs](../../ows-core/ows/crates/ows-core/src/chain.rs)
+- [wallet_file.rs](../../ows-core/ows/crates/ows-core/src/wallet_file.rs)
+- [traits.rs](../../ows-core/ows/crates/ows-signer/src/traits.rs)
+- [mod.rs](../../ows-core/ows/crates/ows-signer/src/chains/mod.rs)
+- [ops.rs](../../ows-core/ows/crates/ows-lib/src/ops.rs)
+- [types.rs](../../ows-core/ows/crates/ows-lib/src/types.rs)
+- [stellar.rs](../../ows-core/ows/crates/ows-signer/src/chains/stellar.rs)
 
 ## Executive Summary
 
